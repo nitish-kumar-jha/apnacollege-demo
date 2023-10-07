@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first github repository<br>
-Author - Nitish kumar jha
+<p style="color: azure">Author - Nitish kumar jha</p>
